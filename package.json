@@ -1,0 +1,22 @@
+{
+  "name": "timest",
+  "version": "1.0.0",
+  "description": "time",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikkes/timestamp.git"
+  },
+  "author": "vikkes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikkes/timestamp/issues"
+  },
+  "homepage": "https://github.com/vikkes/timestamp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
